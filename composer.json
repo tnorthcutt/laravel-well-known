@@ -1,5 +1,6 @@
 {
     "name": "tnorthcutt/laravel-well-known",
+    "description": "A package to manage your .well-known URLs",
     "license": "MIT",
     "authors": [
         {
