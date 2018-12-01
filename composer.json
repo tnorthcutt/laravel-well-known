@@ -1,0 +1,16 @@
+{
+    "name": "tnorthcutt/laravel-well-known-change-password-url",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis Northcutt",
+            "email": "travis@travisnorthcutt.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TravisNorthcutt\\WellKnownChangePasswordUrl\\": "src"
+        }
+    }
+}
