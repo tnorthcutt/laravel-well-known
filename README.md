@@ -1,7 +1,7 @@
 # A package to manage your .well-known URLs
 
 
-## Change password
+## Supported URLs
+- [change password](https://wicg.github.io/change-password-url/index.html)
 
-https://wicg.github.io/change-password-url/index.html
 
