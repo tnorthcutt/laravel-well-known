@@ -7,7 +7,7 @@
 
 1. Add to your Composer file: `composer require tnorthcutt/laravel-well-known`
 
-2. Publish the config file: `php artisan vendor:publish --provider="Tnorthcutt\WellKnownServiceProvider"`
+2. Publish the config file: `php artisan vendor:publish --provider="Tnorthcutt\WellKnown\WellKnownServiceProvider"`
 
 3. Substitute your password change URL in `config/well-known.php`
 
