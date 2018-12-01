@@ -1,5 +1,5 @@
 {
-    "name": "tnorthcutt/laravel-well-known-change-password-url",
+    "name": "tnorthcutt/laravel-well-known",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,14 @@
     },
     "autoload": {
         "psr-4": {
-            "TravisNorthcutt\\WellKnownChangePasswordUrl\\": "src"
+            "Tnorthcutt\\WellKnown\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tnorthcutt\\WellKnown\\WellKnownServiceProvider"
+            ]
         }
     }
 }
