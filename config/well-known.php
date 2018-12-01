@@ -5,6 +5,6 @@ return [
 	/**
 	 * Change password url
 	 */
-	'change-password' => '',
+	'change-password' => '/',
 
 ];
