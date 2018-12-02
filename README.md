@@ -1,5 +1,8 @@
 # A package to manage your .well-known URLs
 
+## What?
+[Standards, yo](https://www.ietf.org/rfc/rfc5785.txt)
+
 ## Supported URLs
 - [change password](https://wicg.github.io/change-password-url/index.html)
 
